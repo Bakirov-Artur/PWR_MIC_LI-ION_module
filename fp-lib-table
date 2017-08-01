@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name XZD-YH10A-1)(type KiCad)(uri "$(KIPRJMOD)/XZD-YH10A-1.pretty")(options "")(descr ""))
+  (lib (name BH-18650-PC4)(type KiCad)(uri "$(KIPRJMOD)/BH-18650-PC4.pretty")(options "")(descr ""))
+  (lib (name Daier_KCD1_switch)(type KiCad)(uri "$(KIPRJMOD)/Daier_KCD1_switch.pretty")(options "")(descr ""))
+)
