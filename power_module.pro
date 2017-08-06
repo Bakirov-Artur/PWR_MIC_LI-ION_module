@@ -1,4 +1,4 @@
-update=четверг, 03 августа 2017 'г'., 11:17:52
+update=воскресенье, 06 августа 2017 'г'., 23:26:39
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,9 +23,11 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
 [eeschema]
 version=1
-LibDir=
+LibDir=Daier_KCD1_switch.pretty
 [eeschema/libraries]
 LibName1=power_module-rescue
 LibName2=power
@@ -57,5 +59,3 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-[general]
-version=1
