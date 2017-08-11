@@ -608,7 +608,7 @@ F 3 "" H 4200 6400 50  0001 C CNN
 $EndComp
 Text Label 4300 4750 0    60   ~ 0
 pwr_btn
-Text Label 5050 5400 0    60   ~ 0
+Text Label 5050 5500 0    60   ~ 0
 led.green
 Text Label 5050 5700 0    60   ~ 0
 led.red
@@ -844,12 +844,12 @@ Wire Wire Line
 Wire Wire Line
 	3150 6850 3150 6800
 $Comp
-L DAIER-KCD1 JP?
+L DAIER-KCD1 JP1
 U 1 1 598783B3
 P 2200 2900
-F 0 "JP?" H 2200 3187 60  0000 C CNN
+F 0 "JP1" H 2200 3187 60  0000 C CNN
 F 1 "DAIER-KCD1" H 2200 3081 60  0000 C CNN
-F 2 "" H 2250 2900 60  0001 C CNN
+F 2 "Daier_KCD1_switch:Daier_KCD1" H 2250 2900 60  0001 C CNN
 F 3 "" H 2250 2900 60  0001 C CNN
 	1    2200 2900
 	1    0    0    -1  

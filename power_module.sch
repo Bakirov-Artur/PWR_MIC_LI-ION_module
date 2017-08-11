@@ -516,7 +516,7 @@ Text Label 4700 5050 0    60   ~ 0
 sck
 Text Label 5250 5900 2    60   ~ 0
 reset
-Text Label 4750 5350 0    60   ~ 0
+Text Label 4150 5750 0    60   ~ 0
 ss
 $Comp
 L GNDA #PWR016
@@ -608,7 +608,7 @@ F 3 "" H 4200 6400 50  0001 C CNN
 $EndComp
 Text Label 4300 4750 0    60   ~ 0
 pwr_btn
-Text Label 5050 5400 0    60   ~ 0
+Text Label 5050 5500 0    60   ~ 0
 led.green
 Text Label 5050 5700 0    60   ~ 0
 led.red
