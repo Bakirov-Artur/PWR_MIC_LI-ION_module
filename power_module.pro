@@ -1,4 +1,4 @@
-update=вторник, 08 августа 2017 'г'., 09:57:06
+update=вторник, 15 августа 2017 'г'., 10:02:59
 version=1
 last_client=kicad
 [pcbnew]
